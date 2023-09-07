@@ -1,6 +1,6 @@
 # Demo
 
-(https://summarize-app-ab.netlify.app)
+[Demo Version](https://summarize-app-ab.netlify.app)
 
 # React + Vite
 
